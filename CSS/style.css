@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #bebdbd;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    background-color: #FFFFFF;
+    width: 510px;
+    height: 1050px;
+}
+
+img{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 11px;
+    width: 110px;
+    height: 110px;
+    border-radius: 100px;
+}
+
+#nome{
+    color: #19304F;
+    float: right;
+    margin-top: 35px;
+    margin-right: 200px;
+}
+
+h1{
+    margin-bottom: 2px;
+    font-size: 25px;
+}
+
+.front{
+    color: #19304F;
+    margin-top: 0;
+}
+
+#perfil{
+    margin-left: 30px;
+    width: 430px;
+}
+
+h3{
+    color: #19304F;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: #222222;
+    text-align: justify;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+li{
+    color: #222222;
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+#esquerda{
+    background-color: #19304F;
+    width: 220px;
+    height: 1050px;
+}
+
+#pessoal{
+    margin-top: 150px;
+    margin-left: 15px;
+}
+
+.contato{
+    color: #FFFFFF;
+    margin-bottom: 11px;
+}
+
+.informacao{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.icones{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#habilidade{
+    margin-top: 70px;
+    margin-left: 15px;
+}
+
+.conhecimentos{
+    margin-bottom: 11px;
+    color: #FFFFFF;
+}
+
+.paragrafo{
+    color: #FFFFFF;;
+    margin-right: 25px;
+    border-bottom: solid;
+    border-width: 1.5px;
+}
+
+footer{
+    margin-top: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+}
