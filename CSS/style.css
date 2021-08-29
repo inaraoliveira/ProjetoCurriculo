@@ -65,6 +65,10 @@ li{
     margin-bottom: 6px;
 }
 
+a{
+    text-decoration: none;
+}
+
 #esquerda{
     background-color: #19304F;
     width: 220px;
